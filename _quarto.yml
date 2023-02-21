@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "NEARMI.github.io"
+  title: "NEARMI"
   navbar:
     left:
       - href: index.qmd
