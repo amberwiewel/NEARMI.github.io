@@ -1,5 +1,5 @@
 ---
-title: "NEARMI.github.io"
+title: "NEARMI Code Archive"
 ---
 
 This is a Quarto website.
